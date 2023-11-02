@@ -1,9 +1,9 @@
 {
-  "name": "@gradio/client",
+  "name": "gradio-client",
   "version": "0.7.2",
-  "description": "Gradio API client",
   "type": "module",
-  "main": "dist/index.js",
+  "description": "Gradio API client",
+  "main": "./dist/index.js",
   "author": "",
   "license": "ISC",
   "dependencies": {
